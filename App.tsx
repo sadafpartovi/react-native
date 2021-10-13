@@ -29,6 +29,8 @@ const App = () => {
   );
 };
 
+//List
+
 const COLORS = [
   { colorName: 'Base03', hexCode: '#002b36' },
   { colorName: 'Base02', hexCode: '#073642' },
